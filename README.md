@@ -1,10 +1,10 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](#)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/vigorous-goldberg-477775/deploys)
 
 # KrispyKreme 크리스피크림 모바일 페이지 🍩 🍩
 
 크리스피크림 모바일 페이지 리뉴얼 및 제작
 
-[크리스피크림 모바일 페이지](#)
+[크리스피크림 모바일 페이지](https://vigorous-goldberg-477775.netlify.app/)
 
 ![크리스피크림 모바일 페이지](https://raw.githubusercontent.com/jiisunny/krispykreme-mobile/master/_assets/main_screenshot.png)
 
